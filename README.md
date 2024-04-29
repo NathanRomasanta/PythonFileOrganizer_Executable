@@ -38,7 +38,7 @@ Simply put the exe file onto any folder that you have and run it. The python scr
 
 ## Dependencies:
 
-- Python 3.x
+- Python 3.0x
 - Required Python libraries (specified in requirements.txt)
 
 ## Contributing:
